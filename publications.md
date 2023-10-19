@@ -1,3 +1,7 @@
+---
+layout: page
+title: Publications
+---
 # Selected Publications
 
 ### 2023
