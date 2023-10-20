@@ -28,3 +28,6 @@ title: Publications
 # Theses
 - ([PhD thesis](https://edoc.hu-berlin.de/handle/18452/25715)) **Barbosa Martins, V.**. (2022). Probing the cosmic-ray pressure in the Virgo Cluster and the origin of the very-high-energy gamma rays of M87 with H.E.S.S. and CTA. Humboldt-Universität zu Berlin.
 - ([Master thesis](https://teses.usp.br/teses/disponiveis/76/76132/tde-26092018-083023/pt-br.php)) **Barbosa Martins, V.**. (2018). RPCs design, development and tests for the Pierre Auger Observatory. University of São Paulo.
+
+# Remaining publications
+[Orcid](https://orcid.org/my-orcid?orcid=0000-0002-5085-8828)
