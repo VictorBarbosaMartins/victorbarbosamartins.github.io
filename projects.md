@@ -24,7 +24,7 @@ Summary:
 
 ## Other highlights
 - **PhD Defense**: 
-![Project Image 1](defense.png)
+![Project Image 1](defense.jpg)
 
 - **Shift in Namibia (H.E.S.S.)**: 
 ![In the control room](shift.jpg)
