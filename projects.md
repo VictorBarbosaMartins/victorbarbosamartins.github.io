@@ -18,7 +18,6 @@ The main goal of the monitoring is to detect degradation and failures before cri
 - **Developement, construction and tests of 40 Resistive Plate Chambers (RPCs) for the Pierre Auger Observatory**
 Resistive Plate Chambers have shown to be suitable muon detector to be integrated into the Pierre Auger Observatory. We have built 40 units at USP in Sao Carlos (Brazil) with help of our colleagues from LIP, Coimbra, Portugal. The RPCs were mounted and succesfully tested.
 
-![|100x145](RPC.jpg)
 <img src="RPC.jpg" alt="4 mounted and functioning RPCs" width="100%" />
 
 <img src="RPC2.jpg" alt="One RPC during assembly" width="100%" />
