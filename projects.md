@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects and highlights
+title: Research Projects
 ---
 ## Research projects
 
