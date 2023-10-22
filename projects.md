@@ -9,20 +9,20 @@ title: Research Projects and Events
 # Developement of the Medium-sized telescope (MST) health monitoring system for CTA
 **Summary**: 
 
-![Sunset at the MST prototype in Adlershof](figs/mst.png)
+![Sunset at the MST prototype in Adlershof](mst.png)
 
 # Developement, construction and tests of 40 Resistive Plate Chambers (RPCs) for the Pierre Auger Observatory
 **Summary**: 
 
-![4 mounted and functioning RPCs ](figs/RPC.png)
+![4 mounted and functioning RPCs ](RPC.png)
 
-![One RPC during assembly](figs/RPC2.png)
+![One RPC during assembly](RPC2.png)
 
 # Other highlights
 **PhD Defense**: 
-![Project Image 1](figs/defense.png)
+![Project Image 1](defense.png)
 
 **Shift in Namibia (H.E.S.S.)**: 
-![In the control room](figs/shift.png)
+![In the control room](shift.png)
 
-![CT5 and the night sky in Namibia](figs/CT5.png)
+![CT5 and the night sky in Namibia](CT5.png)
