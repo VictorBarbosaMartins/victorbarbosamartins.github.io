@@ -36,4 +36,4 @@ title: Publications
 - ([Master thesis](https://teses.usp.br/teses/disponiveis/76/76132/tde-26092018-083023/pt-br.php)) **Barbosa Martins, V.**. (2018). RPCs design, development and tests for the Pierre Auger Observatory. University of São Paulo.
 
 # Remaining publications
-[Orcid](https://orcid.org/my-orcid?orcid=0000-0002-5085-8828)
+[Orcid](https://orcid.org/0000-0002-5085-8828)
