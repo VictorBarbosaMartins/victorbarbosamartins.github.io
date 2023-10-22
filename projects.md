@@ -3,10 +3,10 @@ layout: page
 title: Research Projects and Events
 ---
 
-# Developement of the Simulation Pipeline (SimPipe) for CTA
+# The Simulation Pipeline (SimPipe) for CTA
 **Summary**:
 
-# Developement of the Medium-sized telescope (MST) health monitoring system for CTA
+# The structure health monitoring system for the Medium-sized telescope (MST) of CTA
 **Summary**: 
 
 ![Sunset at the MST prototype in Adlershof](mst.jpg)
