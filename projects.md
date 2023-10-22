@@ -12,12 +12,12 @@ The DPPS Simulation Production Pipeline (SimPipe) is the system responsible to s
 - **The structure health monitoring system for the Medium-sized telescope (MST) of CTA**
 The main goal of the monitoring is to detect degradation and failures before critical damages occur, through the estimate of the Eigenfrequencies of the telescope and their damping rates and their monitoring over time. The structure monitoring concept system was applied to the prototype Medium Size telescope (MST) prototype of CTA in Berlin during late 2018 and in 2019. The system is also capable to detect mechanical changes, e.g. varying tension in the steel ropes of the camera support structure. The successful implementation of the structure monitoring system supports the decision of implementing the system in all future MSTs.
 
-![Sunset at the MST prototype in Adlershof](mst.jpg)
+![Sunset at the MST prototype in Adlershof](mst.jpg){width=500px}
 
 ### 2016 - 2018
 - **Developement, construction and tests of 40 Resistive Plate Chambers (RPCs) for the Pierre Auger Observatory**
 Resistive Plate Chambers have shown to be suitable muon detector to be integrated into the Pierre Auger Observatory. We have built 40 units at USP in Sao Carlos (Brazil) with help of our colleagues from LIP, Coimbra, Portugal. The RPCs were mounted and succesfully tested.
 
-![4 mounted and functioning RPCs ](RPC.jpg)
+![4 mounted and functioning RPCs ](RPC.jpg){width=500px}
 
-![One RPC during assembly](RPC2.jpg)
+![One RPC during assembly](RPC2.jpg){width=500px}
