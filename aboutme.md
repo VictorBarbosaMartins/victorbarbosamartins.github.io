@@ -11,22 +11,22 @@ Here, I succesfully completed my PhD at the Deutsches Elektronen Synchrotron ([D
 ### 2023
 - **International Cosmic-ray Conference (ICRC Japan)**
   
-![Presenting my poster](icrc.jpg){width=500px}
+![Presenting my poster|100x145](icrc.jpg){width=500px}
 
 ### 2022
 
 - **7th heidelberg international symposium on high-energy gamma-ray astronomy (Gamma 2022)**
   
-![My talk at the conference](gamma.jpg){width=500px}
+![My talk at the conference|100x145](gamma.jpg){width=500px}
 
 - **PhD Defense**:
 
-![Before the defense](defense.jpg){width=500px}
+![Before the defense|100x145](defense.jpg){width=500px}
 
 ### 2020
 
 - **Shift in Namibia (H.E.S.S.)**:
   
-![In the control room](shift.jpg){width=500px}
+![In the control room|100x145](shift.jpg){width=500px}
 
-![CT5 and the night sky in Namibia](CT5.jpg){width=500px}
+![CT5 and the night sky in Namibia|100x145](CT5.jpg){width=500px}
