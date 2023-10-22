@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research Projects and Events
+title: Research Projects and highlights
 ---
-## Projects
+## Research projects
 
 ### 2023 - 
 - **The Simulation Pipeline (SimPipe) for CTA**
@@ -22,7 +22,7 @@ title: Research Projects and Events
 
 ![One RPC during assembly](RPC2.jpg)
 
-## Other highlights
+## Highlights
 
 ### 2023
 - **International Cosmic-ray Conference (ICRC Japan)**
