@@ -4,8 +4,11 @@ title: Publications
 ---
 # Selected Publications
 
-### 2023
+- (in internal review, first author) HESS Collaboration, “The spectrum of the VHE gamma-ray high state of M 87”.
 
+- (in internal review, corresponding author) EHT Collaboration, HESS Collaboration, VERITAS Collaboration, MAGIC Collaboration, Fermi Collaboration, EAVN Collaboration, “Broadband Multi-wavelength Properties of M87 during the 2018 EHT Campaign and a Very High Energy Flaring Episode”.
+
+### 2023
 - (first author) **H. E. S. S. Collaboration**. (2023). Constraining the cosmic-ray pressure in the inner Virgo Cluster using H.E.S.S. observations of M 87. [*Astronomy & Astrophysics*](https://ui.adsabs.harvard.edu/abs/2023A%26A...675A.138H/abstract), 675A, 138H.
 
 - (corresponding author) P. Abreu et al., “MARTA: a high-energy cosmic-ray detector concept for high-accuracy muon measurement”, [EPJC](https://doi.org/10.1140/epjc/s10052-018-5820-2), 78, 333, 2018.
