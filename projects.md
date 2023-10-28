@@ -30,4 +30,4 @@ During this internship at the Leibniz-Institut für Photonische Technologien (IP
 
 ### 2010 - 2012 (Undergraduate project)
 - **Ray tracing simulation for the electromagnetic shower**
-Ray tracing simulation of the detection of Cherenkov radiation emitted by electromagnetic showers in the atmosphere for a paraboloic telescope, envisioning the upcoming CTA Observatory. The programming language C/C++ was used to develop a ray tracing algorithm as function of the shower's parameters and energy of the initial particle. The algorithm produced the images of the showers as seen at the camera plane of the telescope. 
+Ray tracing simulation of the detection of Cherenkov radiation emitted by electromagnetic showers in the atmosphere for a paraboloic telescope, envisioning the upcoming CTA Observatory. The programming language C/C++ was used to develop a ray tracing algorithm. The algorithm produced the images of the showers as seen at the camera plane of the telescope as function of the shower's parameters, energy and incoming direction of the initial particle.
