@@ -1,37 +1,31 @@
-# Site Settings
-    2 title: "Victor Barbosa Martins"
-    3 name: "Victor Barbosa Martins"
-    4 description: "Astroparticle Physicist | Professor at UFG"
-    5 url: "https://victorbarbosamartins.github.io"
-    6 baseurl: "" # Leave empty or set to /repository-name
+title: Victor Barbosa Martins
+    2 name: Victor Barbosa Martins
+    3 description: "Astroparticle Physicist | Professor at UFG"
+    4 url: "https://victorbarbosamartins.github.io"
+    5 baseurl: ""
+    6 repository: VictorBarbosaMartins/victorbarbosamartins.github.io
     7
-    8 # Author Profile
-    9 author:
-   10   name: "Victor Barbosa Martins"
-   11   avatar: "avatar.png" # Place your photo in /assets/images/avatar.png
-   12   bio: "Astroparticle physicist focusing on very-high-energy gamma rays, cosmic rays, and multi-messenger astronomy."
-   13   location: "Goiânia, Brazil"
-   14   email: "barbosamartins@ufg.br"
-   15   uri: "https://victorbarbosamartins.github.io"
-   16   bitbucket:
-   17   codepen:
-   18   dribbble:
-   19   flickr:
-   20   facebook:
-   21   foursquare:
-   22   github: "VictorBarbosaMartins"
-   23   google_plus:
-   24   keybase:
-   25   instagram:
-   26   linkedin: "victor-barbosa-martins" # Update if different
-   27   pinterest:
-   28   soundcloud:
-   29   stackoverflow:
-   30   tumblr:
-   31   twitter:
-   32   vimeo:
-   33   youtube:
-   34   orcid: "0000-0002-5085-8828"
-   35   google_scholar: "v_v_v_v_v_v_v" # Update with your specific ID
-   36   lattes: "0386103996676475"
-   37   researchgate: "Victor-Martins-4"
+    8 author:
+    9   name: "Victor Barbosa Martins"
+   10   avatar: "avatar.png"
+   11   bio: "Astroparticle physicist focusing on very-high-energy gamma rays, cosmic rays, and multi-messenger astronomy."
+   12   location: "Goiânia, Brazil"
+   13   email: "barbosamartins@ufg.br"
+   14   uri: "https://victorbarbosamartins.github.io"
+   15   github: "VictorBarbosaMartins"
+   16   linkedin: "victor-barbosa-martins"
+   17   orcid: "0000-0002-5085-8828"
+   18   google_scholar: "v_v_v_v_v_v_v"
+   19   lattes: "0386103996676475"
+   20   researchgate: "Victor-Martins-4"
+   21
+   22 include:
+   23   - _pages
+   24
+   25 markdown: kramdown
+   26 theme: jekyll-theme-minimal
+   27 plugins:
+   28   - jekyll-feed
+   29   - jekyll-gist
+   30   - jekyll-paginate
+   31   - jekyll-sitemap
