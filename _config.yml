@@ -1,4 +1,6 @@
-title: Victor Barbosa Martins
+1. _config.yml (Fixed & Factual)
+
+    1 title: Victor Barbosa Martins
     2 name: Victor Barbosa Martins
     3 description: "Astroparticle Physicist | Professor at UFG"
     4 url: "https://victorbarbosamartins.github.io"
@@ -17,15 +19,14 @@ title: Victor Barbosa Martins
    17   orcid: "0000-0002-5085-8828"
    18   google_scholar: "v_v_v_v_v_v_v"
    19   lattes: "0386103996676475"
-   20   researchgate: "Victor-Martins-4"
-   21
-   22 include:
-   23   - _pages
-   24
-   25 markdown: kramdown
-   26 theme: jekyll-theme-minimal
-   27 plugins:
-   28   - jekyll-feed
-   29   - jekyll-gist
-   30   - jekyll-paginate
-   31   - jekyll-sitemap
+   20
+   21 include:
+   22   - _pages
+   23
+   24 markdown: kramdown
+   25 theme: jekyll-theme-minimal
+   26 plugins:
+   27   - jekyll-feed
+   28   - jekyll-gist
+   29   - jekyll-paginate
+   30   - jekyll-sitemap
