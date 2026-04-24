@@ -1,64 +1,35 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+    2 layout: archive
+    3 title: "CV"
+    4 permalink: /cv/
+    5 author_profile: true
+    6 redirect_from:
+    7   - /resume
+    8 ---
+    9
+   10 {% include base_path %}
+   11
+   12 Education
+   13 ======
+   14 * **PhD in Experimental Physics**, Humboldt University of Berlin / DESY, 2022
+   15 * **M.Sc. in Applied Physics (Astrophysics)**, University of São Paulo (USP), 2018
+   16 * **B.S. in Physics Engineering**, Federal University of São Carlos (UFSCar), 2014
+   17
+   18 Professional Experience
+   19 ======
+   20 * **Professor Adjunto**, Federal University of Goiás (UFG), 2025 – Present
+   21 * **Postdoctoral Researcher**, Ruhr University Bochum, Germany, 2024 – 2025
+   22 * **Postdoctoral Researcher**, DESY, Zeuthen, Germany, 2022 – 2024
+   23 * **Research Assistant**, DESY, Germany, 2018 – 2022
+   24
+   25 Research Projects & Highlights
+   26 ======
+   27 * **M87 Gamma-Ray Spectrum:** Led the analysis of 17 years of H.E.S.S. data, identifying spectral curvature and constraining the Extragalactic Background Light.
+   28 * **Virgo Cluster Cosmic Rays:** Set the first observational upper limits on cosmic-ray pressure in the inner Virgo Cluster.
+   29 * **CTA MST Prototype:** Developed condition monitoring systems using operational modal analysis for future gamma-ray telescopes.
+   30
+   31 Skills
+   32 ======
+   33 * **Languages:** Portuguese (Native), English (Fluent), German (Working proficiency)
+   34 * **Technical:** Python (Scipy, Astropy, Gammapy), C++, Root, LaTeX, Linux/HPC.
+   35 * **Expertise:** Data Analysis, Statistical Modeling, Detector Physics, Machine Learning.
