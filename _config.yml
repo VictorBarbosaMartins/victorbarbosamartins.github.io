@@ -1,32 +1,30 @@
-1. _config.yml (Fixed & Factual)
+title: Victor Barbosa Martins
+name: Victor Barbosa Martins
+description: "Astroparticle Physicist | Professor at UFG"
+url: "https://victorbarbosamartins.github.io"
+baseurl: ""
+repository: VictorBarbosaMartins/victorbarbosamartins.github.io
 
-    1 title: Victor Barbosa Martins
-    2 name: Victor Barbosa Martins
-    3 description: "Astroparticle Physicist | Professor at UFG"
-    4 url: "https://victorbarbosamartins.github.io"
-    5 baseurl: ""
-    6 repository: VictorBarbosaMartins/victorbarbosamartins.github.io
-    7
-    8 author:
-    9   name: "Victor Barbosa Martins"
-   10   avatar: "avatar.png"
-   11   bio: "Astroparticle physicist focusing on very-high-energy gamma rays, cosmic rays, and multi-messenger astronomy."
-   12   location: "Goiânia, Brazil"
-   13   email: "barbosamartins@ufg.br"
-   14   uri: "https://victorbarbosamartins.github.io"
-   15   github: "VictorBarbosaMartins"
-   16   linkedin: "victor-barbosa-martins"
-   17   orcid: "0000-0002-5085-8828"
-   18   google_scholar: "v_v_v_v_v_v_v"
-   19   lattes: "0386103996676475"
-   20
-   21 include:
-   22   - _pages
-   23
-   24 markdown: kramdown
-   25 theme: jekyll-theme-minimal
-   26 plugins:
-   27   - jekyll-feed
-   28   - jekyll-gist
-   29   - jekyll-paginate
-   30   - jekyll-sitemap
+author:
+  name: "Victor Barbosa Martins"
+  avatar: "avatar.png"
+  bio: "Astroparticle physicist focusing on very-high-energy gamma rays, cosmic rays, and multi-messenger astronomy."
+  location: "Goiânia, Brazil"
+  email: "barbosamartins@ufg.br"
+  uri: "https://victorbarbosamartins.github.io"
+  github: "VictorBarbosaMartins"
+  linkedin: "victor-barbosa-martins"
+  orcid: "0000-0002-5085-8828"
+  google_scholar: "v_v_v_v_v_v_v"
+  lattes: "0386103996676475"
+
+include:
+  - _pages
+
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
