@@ -7,15 +7,15 @@ repository: VictorBarbosaMartins/victorbarbosamartins.github.io
 
 author:
   name: "Victor Barbosa Martins"
-  avatar: "bio-photo.jpg"
-  bio: "Astroparticle physicist focusing on very-high-energy gamma rays, cosmic rays, and multi-messenger astronomy."
+  avatar: "/images/profile.jpg"
+  bio: "Astroparticle physicist focusing on very-high-energy gamma rays and multi-messenger astronomy. Associated member of H.E.S.S. and member of LST - CTAO (via RUB)."
   location: "Goiânia, Brazil"
   email: "barbosamartins@ufg.br"
   uri: "https://victorbarbosamartins.github.io"
   github: "VictorBarbosaMartins"
   linkedin: "victor-barbosa-martins"
   orcid: "0000-0002-5085-8828"
-  google_scholar: "v_v_v_v_v_v_v"
+  google_scholar: "Y_8K5YQAAAAJ"
   lattes: "0386103996676475"
 
 collections:
@@ -25,12 +25,9 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
-  portfolio:
+  group:
     output: true
-    permalink: /portfolio/:path/
-  talks:
-    output: true
-    permalink: /talks/:path/
+    permalink: /group/:path/
 
 footer:
   links:
