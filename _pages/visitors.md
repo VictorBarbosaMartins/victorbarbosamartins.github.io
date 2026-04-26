@@ -6,5 +6,7 @@ author_profile: true
 ---
 
 <div align="center">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BtU1GwSIIApdpnZR6kTtoptcMgNbPdkLeQ7xgT1v1OI&cl=ffffff&w=a"></script>
+  <a href="https://clustrmaps.com/site/1c9ur" title="ClustrMaps">
+    <img src="//www.clustrmaps.com/map_v2.png?d=BtU1GwSIIApdpnZR6kTtoptcMgNbPdkLeQ7xgT1v1OI&cl=ffffff">
+  </a>
 </div>
