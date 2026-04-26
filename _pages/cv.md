@@ -13,7 +13,7 @@ author_profile: true
 * **B.S. in Physics Engineering**, Federal University of São Carlos (UFSCar), 2014
 
 ### Professional Experience
-* **Assistant Professor (Professor Adjunto)**, Federal University of Goiás (UFG), 2025 – Present
+* **Assistant Professor (Professor Adjunto)**, [Physics Institute](https://if.ufg.br/), Federal University of Goiás (UFG), 2025 – Present
 * **Postdoctoral Researcher**, Ruhr University Bochum, Germany, 2024 – 2025
   * *Supervisor: Prof. Dr. Anna Franckowiak*
 * **Postdoctoral Researcher**, DESY, Zeuthen, Germany, 2022 – 2024
@@ -24,3 +24,4 @@ author_profile: true
 * **H.E.S.S. Collaboration** (Associated Member)
 * **Cherenkov Telescope Array Observatory (CTAO)** (via RUB)
 * **LST - CTAO** (via RUB)
+* **Graduate Program in Physics (PPG-IF/UFG)** [Link](https://posgraduacao.if.ufg.br/)
