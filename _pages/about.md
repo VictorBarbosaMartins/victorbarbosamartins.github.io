@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Victor Barbosa Martins"
+layout: archive
 excerpt: "About me"
 author_profile: true
 ---
