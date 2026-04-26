@@ -7,7 +7,7 @@ author_profile: true
 
 ### Education
 * **PhD in Experimental Physics**, Humboldt University of Berlin / DESY, 2022
-  * *Supervisors: Prof. Dr. David Berge and Dr. Gernot Maier*
+  * *Supervisors: Prof. Dr. David Berge, Dr. Markus Garczarczyk, and Dr. Stefan Ohm*
 * **M.Sc. in Applied Physics (Astrophysics)**, University of São Paulo (USP), 2018
   * *Supervisor: Prof. Dr. Vitor de Souza*
 * **B.S. in Physics Engineering**, Federal University of São Carlos (UFSCar), 2014
