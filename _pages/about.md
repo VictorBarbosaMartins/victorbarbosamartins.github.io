@@ -11,8 +11,8 @@ author_profile: true
 
 I am an Assistant Professor (Professor Adjunto) at the Physics Institute of the **Federal University of Goiás (UFG)**, Brazil. I am a **Physical Engineer** and my research is focused on **Astroparticle Physics** and **Multi-messenger Astronomy**.
 
-My work involves the study of extreme cosmic environments using data from the **H.E.S.S.** array (Associated Member) and the **Cherenkov Telescope Array Observatory (CTAO)**. I am particularly interested in spectral analysis of gamma-ray sources and the development of instrumentation for high-energy astrophysics.
+My work involves analyzing data from various high-energy and multi-wavelength observatories to study extreme cosmic environments. My primary research interests include **multi-messenger astronomy**, **optical polarization**, and the study of **extra-galactic environments**, with a particular focus on **Active Galactic Nuclei (AGN)** and **radio galaxies**. I also contribute to the development of next-generation instrumentation for high-energy astrophysics.
 
 Before joining UFG, I was a postdoctoral researcher at **Ruhr University Bochum** and **DESY** in Germany.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray;margin-top:50px;">
+<div style="clear: both; margin-top: 50px; border-top: 2px solid #888;"></div>
