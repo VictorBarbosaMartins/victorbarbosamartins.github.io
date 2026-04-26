@@ -15,4 +15,4 @@ My work involves analyzing data from various high-energy and multi-wavelength ob
 
 Before joining UFG, I was a postdoctoral researcher at **Ruhr University Bochum** and **DESY** in Germany.
 
-<div style="clear: both; margin-top: 50px; border-top: 2px solid #888;"></div>
+<div style="clear: both; padding-top: 2em; border-top: 1px solid #eee; margin-top: 3em;"></div>
