@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: "Victor Barbosa Martins"
+excerpt: "About me"
 author_profile: true
 ---
 
 **⚠️ Under Construction**
 *This website is currently being updated. Please check back soon.*
 
-<img src="/images/profile.jpg" alt="Victor Barbosa Martins" style="width:250px; float:right; margin-left:20px; border-radius:10px;">
+<img src="/images/profile.jpg" alt="Victor Barbosa Martins" style="width:280px; float:right; margin-left:20px; border-radius:15px; border: 1px solid #ccc;">
 
 I am an Assistant Professor (Professor Adjunto) at the Physics Institute of the **Federal University of Goiás (UFG)**, Brazil. My research is focused on **Astroparticle Physics** and **Multi-messenger Astronomy**.
 
