@@ -1,0 +1,15 @@
+main:
+  - title: "Início"
+    url: /pt/
+  - title: "Publicações"
+    url: /pt/publications/
+  - title: "CV"
+    url: /pt/cv/
+  - title: "Ensino"
+    url: /pt/teaching/
+  - title: "Grupo"
+    url: /pt/group/
+  - title: "Visitantes"
+    url: /pt/visitors/
+  - title: "🇺🇸 English"
+    url: /

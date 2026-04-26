@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Publications"
     url: /publications/
   - title: "CV"
@@ -11,3 +9,5 @@ main:
     url: /group/
   - title: "Visitors"
     url: /visitors/
+  - title: "🇧🇷 Português"
+    url: /pt/
