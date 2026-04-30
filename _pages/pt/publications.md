@@ -23,9 +23,15 @@ author_profile: true
   H.E.S.S. Collaboration (**V. Barbosa Martins** as corresponding author), *Astronomy & Astrophysics*, 675, A138 (2023).
   [DOI: 10.1051/0004-6361/202346141](https://doi.org/10.1051/0004-6361/202346141)
 
+* **The structure monitoring of the MST prototype of CTA**
+  **V. Barbosa Martins** et al., *Proc. SPIE 11445*, 114457Y (2020).
+  [DOI: 10.1117/12.2561142](https://doi.org/10.1117/12.2561142)
+
 ---
 
 ### Todas as Publicações
 Para uma lista completa, incluindo trabalhos em grandes colaborações, visite meu perfil no ORCID:
 
 [ORCID: 0000-0002-5085-8828](https://orcid.org/0000-0002-5085-8828)
+
+<!-- V1.0.2 -->
