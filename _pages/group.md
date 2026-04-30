@@ -7,13 +7,13 @@ author_profile: true
 
 <div align="center">
   <img src="/images/astrogyn_logo.png" alt="AstroGYN Logo" style="width:400px; margin-bottom:20px;">
-  <p><strong>Astrofísica de Partículas IF - UFG</strong></p>
+  <p><strong>Astroparticle Physics Group at IF-UFG</strong></p>
 </div>
 
-I am a Professor at the Physics Institute of UFG and coordinate the **AstroGYN** research group, focusing on Astroparticle Physics and Multi-messenger Astronomy.
+The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-energy astrophysics, multi-messenger astronomy, and scientific instrumentation.
 
-### Group Members
-*   *Names and projects will be listed here.*
+### Current Members
+*   *Members list is being updated.*
 
-### Join the Group
-If you are a student interested in high-energy astrophysics, cosmic rays, or scientific instrumentation, please contact me via email.
+### Join us
+We are always looking for motivated students (IC, Master's, or PhD). Please contact me via email if you are interested in joining our research projects.
