@@ -7,19 +7,20 @@ author_profile: true
 
 ### Education
 * **PhD in Experimental Physics (Astrophysics)**, Humboldt University of Berlin / DESY, 2022
-  * *Thesis:* [Investigating the very-high-energy gamma-ray emission from M87 using H.E.S.S. data and its potential connection to the Virgo Cluster](https://doi.org/10.18452/24909)
-  * *Supervisors: Prof. Dr. David Berge, Dr. Markus Garczarczyk, and Dr. Stefan Ohm*
+  * *Thesis:* [Probing the cosmic-ray pressure in the Virgo Cluster and the origin of the very-high-energy gamma rays of M87 with H.E.S.S. and CTA](https://doi.org/10.18452/24909)
+  * *Research Highlights:* Development of a **structural monitoring system** for the Medium Size Telescope (MST) prototype of CTA (2019-2020).
+  * *Supervisors:* Prof. Dr. David Berge, Dr. Markus Garczarczyk, and Dr. Stefan Ohm
 * **M.Sc. in Applied Physics (Astrophysics)**, University of São Paulo (USP), 2018
-  * *Thesis:* [Desenvolvimento de um sistema de monitoramento estrutural para o protótipo do telescópio de médio porte do CTA](https://teses.usp.br/teses/disponiveis/76/76132/tde-26092018-083023/)
-  * *Supervisor: Prof. Dr. Vitor de Souza*
+  * *Thesis:* [RPCs design, development and tests for the Pierre Auger Observatory](https://teses.usp.br/teses/disponiveis/76/76132/tde-26092018-083023/)
+  * *Supervisor:* Prof. Dr. Vitor de Souza
 * **B.S. in Physics Engineering**, Federal University of São Carlos (UFSCar), 2014
 
 ### Professional Experience
 * **Assistant Professor (Professor Adjunto)**, [Physics Institute](https://if.ufg.br/), Federal University of Goiás (UFG), 2025 – Present
 * **Postdoctoral Researcher**, Ruhr University Bochum, Germany, 2024 – 2025
-  * *Supervisor: Prof. Dr. Anna Franckowiak*
+  * *Supervisor:* Prof. Dr. Anna Franckowiak
 * **Postdoctoral Researcher**, DESY, Zeuthen, Germany, 2022 – 2024
-  * *Supervisor: Dr. Gernot Maier*
+  * *Supervisor:* Dr. Gernot Maier
 * **PhD Student**, DESY / Humboldt University of Berlin, 2018 – 2022
 
 ### Affiliations & Collaborations
