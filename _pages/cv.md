@@ -8,10 +8,10 @@ author_profile: true
 ### Education
 * **PhD in Experimental Physics (Astrophysics)**, Humboldt University of Berlin / DESY, 2022
   * *Thesis:* [Probing the cosmic-ray pressure in the inner Virgo Cluster and the origin of the very-high-energy gamma rays of M87 with H.E.S.S. and CTA](https://doi.org/10.18452/24909)
-  * *Supervisors: Prof. Dr. David Berge, Dr. Markus Garczarczyk, and Dr. Stefan Ohm*
+  * *Supervisors:* Prof. Dr. David Berge, Dr. Markus Garczarczyk, and Dr. Stefan Ohm
 * **M.Sc. in Applied Physics (Astrophysics)**, University of São Paulo (USP), 2018
   * *Thesis:* [RPCs design, development and tests for the Pierre Auger Observatory](https://teses.usp.br/teses/disponiveis/76/76132/tde-26092018-083023/)
-  * *Supervisor: Prof. Dr. Vitor de Souza*
+  * *Supervisor:* Prof. Dr. Vitor de Souza*
 * **B.S. in Physics Engineering**, Federal University of São Carlos (UFSCar), 2014
 
 ### Professional Experience
