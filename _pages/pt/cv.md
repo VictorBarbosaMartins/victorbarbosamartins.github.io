@@ -15,11 +15,11 @@ author_profile: true
 * **Bacharelado em Engenharia Física**, Universidade Federal de São Carlos (UFSCar), 2014
 
 ### Experiência Profissional
-* **Professor Adjunto**, [Instituto de Física](https://if.ufg.br/), Universidade Federal de Goiás (UFG), 2025 – Presente
+* **Professor Assistente**, [Instituto de Física](https://if.ufg.br/), Universidade Federal de Goiás (UFG), 2025 – Presente
 * **Pesquisador de Pós-Doutorado**, Ruhr University Bochum, Alemanha, 2024 – 2025
   * *Supervisora:* Prof. Dr. Anna Franckowiak
 * **Pesquisador de Pós-Doutorado**, DESY, Zeuthen, Alemanha, 2022 – 2024
-  * *Supervisor:* Dr. Gernot Maier
+  * *Supervisor: Dr. Gernot Maier*
 * **Doutorando**, DESY / Humboldt University of Berlin, 2018 – 2022
 
 ### Afiliações & Colaborações
