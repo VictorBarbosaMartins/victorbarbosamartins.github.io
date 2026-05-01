@@ -33,5 +33,3 @@ author_profile: true
 Para uma lista completa, incluindo trabalhos em grandes colaborações, visite meu perfil no ORCID:
 
 [ORCID: 0000-0002-5085-8828](https://orcid.org/0000-0002-5085-8828)
-
-<!-- V1.0.2 -->
