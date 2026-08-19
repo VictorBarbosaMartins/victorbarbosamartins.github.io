@@ -15,4 +15,6 @@ Meu trabalho envolve a análise de dados de diversos observatórios de altas ene
 
 Antes de ingressar na UFG, fui pesquisador de pós-doutorado na **Ruhr University Bochum** e no **DESY**, na Alemanha.
 
+Meu histórico acadêmico completo e publicações podem ser encontrados no meu [Currículo Lattes](http://lattes.cnpq.br/0386103996676475).
+
 <div style="clear: both; padding-top: 2em; border-top: 1px solid #eee; margin-top: 3em;"></div>

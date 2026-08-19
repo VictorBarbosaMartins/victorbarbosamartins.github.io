@@ -15,4 +15,6 @@ My work involves analyzing data from various high-energy and multi-wavelength ob
 
 Before joining UFG, I was a postdoctoral researcher at **Ruhr University Bochum** and **DESY** in Germany.
 
+My full academic history and publications can be found on my [Lattes CV](http://lattes.cnpq.br/0386103996676475).
+
 <div style="clear: both; padding-top: 2em; border-top: 1px solid #eee; margin-top: 3em;"></div>
