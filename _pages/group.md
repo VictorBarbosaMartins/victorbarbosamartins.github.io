@@ -15,7 +15,7 @@ The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-ene
 ### Current Members
 
 #### PhD Students
-* **Luan de Castro Souza**: Astroparticle Physics (Start: 2026).
+* **Luan Torres**: Astroparticle Physics (Start: 2026).
 
 #### Master Students
 * **André Barbosa Mendes**: Astroparticle Physics (Start: 2026).
