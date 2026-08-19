@@ -15,7 +15,7 @@ O grupo **AstroGYN**, liderado pelo Prof. Victor Barbosa Martins, foca em astrof
 ### Membros Atuais
 
 #### Doutorado
-* **Luan de Castro Souza**: Astrofísica de Partículas (Início: 2026).
+* **Luan Torres**: Astrofísica de Partículas (Início: 2026).
 
 #### Mestrado
 * **André Barbosa Mendes**: Astrofísica de Partículas (Início: 2026).
