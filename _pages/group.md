@@ -99,7 +99,7 @@ The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-ene
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 2em; flex-wrap: wrap;">
-  <div style="width: 250px; height: 150px; border-radius: 8px; background-color: #ddd; margin-right: 20px; margin-bottom: 10px; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">[ LST Photo Placeholder ]</div>
+  <img src="/images/lst.jpg" alt="Large-Sized Telescope (LST) at La Palma" style="width: 250px; border-radius: 8px; margin-right: 20px; margin-bottom: 10px;">
   <div style="flex: 1; min-width: 250px;">
     <h4 style="margin-top: 0; margin-bottom: 0.5em;">LST Collaboration (CTAO)</h4>
     <p style="margin-bottom: 0.5em;">The Large-Sized Telescope (LST) is a key component of the Cherenkov Telescope Array Observatory (CTAO), located in La Palma, Spain, designed to detect the lowest energy gamma rays.</p>

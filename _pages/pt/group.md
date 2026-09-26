@@ -99,7 +99,7 @@ O grupo **AstroGYN**, liderado pelo Prof. Victor Barbosa Martins, foca em astrof
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 2em; flex-wrap: wrap;">
-  <div style="width: 250px; height: 150px; border-radius: 8px; background-color: #ddd; margin-right: 20px; margin-bottom: 10px; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">[ Foto do LST em Breve ]</div>
+  <img src="/images/lst.jpg" alt="Large-Sized Telescope (LST) em La Palma" style="width: 250px; border-radius: 8px; margin-right: 20px; margin-bottom: 10px;">
   <div style="flex: 1; min-width: 250px;">
     <h4 style="margin-top: 0; margin-bottom: 0.5em;">Colaboração LST (CTAO)</h4>
     <p style="margin-bottom: 0.5em;">O Large-Sized Telescope (LST) é um dos principais componentes do Cherenkov Telescope Array Observatory (CTAO), localizado em La Palma, Espanha. Ele é projetado para detectar os raios gama de mais baixa energia observáveis pelo CTAO.</p>
