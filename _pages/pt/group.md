@@ -15,19 +15,86 @@ O grupo **AstroGYN**, liderado pelo Prof. Victor Barbosa Martins, foca em astrof
 ### Membros Atuais
 
 #### Doutorado
-* **Luan Torres**: Astrofísica de Partículas (Início: 2026).
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">Sem Foto</div>
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Luan Torres</h4>
+    <p style="margin-bottom: 0.5em;"><strong>Projeto:</strong> Astrofísica de Partículas (Início: 2026)</p>
+    <p style="margin-bottom: 0; font-size: 0.9em;"><em>Bio:</em> [Espaço para uma breve biografia. Envie o texto quando quiser.]</p>
+  </div>
+</div>
 
 #### Mestrado
-* **André Barbosa Mendes**: Astrofísica de Partículas (Início: 2026).
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">Sem Foto</div>
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">André Barbosa Mendes</h4>
+    <p style="margin-bottom: 0.5em;"><strong>Projeto:</strong> Astrofísica de Partículas (Início: 2026)</p>
+    <p style="margin-bottom: 0; font-size: 0.9em;"><em>Bio:</em> [Espaço para uma breve biografia. Envie o texto quando quiser.]</p>
+  </div>
+</div>
+
+#### Trabalho de Conclusão de Curso (TCC)
+
+*(Eu criei esta categoria para você. Me avise quais alunos devem ficar aqui e eu os moverei!)*
 
 #### Iniciação Científica (IC)
-* **Isabela Moura Marques**: Simulação e análise morfológica de rádio-galáxias em raios gama de muito alta energia com Gammapy para o CTAO.
-* **Bruna Rodrigues Marques**: Monitoramento da saúde estrutural dos telescópios de médio porte (MST) do CTAO via Análise Modal Operacional.
-* **João Emanuel Teotonio dos Santos**: Magnetars como aceleradores de partículas: caracterização de fontes e comparação com núcleos ativos de galáxias.
-* **Gabriel Martins Costa**: Desenvolvimento e comissionamento de uma Câmara de Wilson para detecção de raios cósmicos.
-* **Lívia Santiago**: O enigma da matéria escura: evidências astrofísicas e o limite da matéria bariônica.
-* **Bruno Chaves Gustavo**: Uso de dados do Fermi-LAT para investigar estados de flare na emissão de raios gama de M87.
-* **Daniel Anderson Rodrigues**: Investigação da emissão multi-comprimento de onda da rádio-galáxia M87: caracterização de zonas e tipos de emissão no flare de 2018.
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/images/bruno.png" alt="Bruno Chaves Gustavo" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-right: 20px; flex-shrink: 0;">
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Bruno Chaves Gustavo</h4>
+    <p style="margin-bottom: 0.5em;"><strong>Projeto:</strong> Geometria do Campo Magnético e Polarização em Jatos de AGNs</p>
+    <p style="margin-bottom: 0; font-size: 0.9em;"><em>Bio:</em> [Espaço para uma breve biografia. Envie o texto quando quiser.]</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/images/hygor.png" alt="Hygor" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-right: 20px; flex-shrink: 0;">
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Hygor</h4>
+    <p style="margin-bottom: 0.5em;"><strong>Projeto:</strong> Desenvolvimento e comissionamento de uma Câmara de Wilson para detecção de raios cósmicos.</p>
+    <p style="margin-bottom: 0; font-size: 0.9em;"><em>Bio:</em> [Espaço para uma breve biografia. Envie o texto quando quiser.]</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">Sem Foto</div>
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Isabela Moura Marques</h4>
+    <p style="margin-bottom: 0.5em;"><strong>Projeto:</strong> Simulação e análise morfológica de rádio-galáxias em raios gama de muito alta energia com Gammapy para o CTAO.</p>
+    <p style="margin-bottom: 0; font-size: 0.9em;"><em>Bio:</em> [Espaço para uma breve biografia. Envie o texto quando quiser.]</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">Sem Foto</div>
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Bruna Rodrigues Marques</h4>
+    <p style="margin-bottom: 0.5em;"><strong>Projeto:</strong> Monitoramento da saúde estrutural dos telescópios de médio porte (MST) do CTAO via Análise Modal Operacional.</p>
+    <p style="margin-bottom: 0; font-size: 0.9em;"><em>Bio:</em> [Espaço para uma breve biografia. Envie o texto quando quiser.]</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">Sem Foto</div>
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">João Emanuel Teotonio dos Santos</h4>
+    <p style="margin-bottom: 0.5em;"><strong>Projeto:</strong> Magnetars como aceleradores de partículas: caracterização de fontes e comparação com núcleos ativos de galáxias.</p>
+    <p style="margin-bottom: 0; font-size: 0.9em;"><em>Bio:</em> [Espaço para uma breve biografia. Envie o texto quando quiser.]</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">Sem Foto</div>
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Lívia Santiago</h4>
+    <p style="margin-bottom: 0.5em;"><strong>Projeto:</strong> O enigma da matéria escura: evidências astrofísicas e o limite da matéria bariônica.</p>
+    <p style="margin-bottom: 0; font-size: 0.9em;"><em>Bio:</em> [Espaço para uma breve biografia. Envie o texto quando quiser.]</p>
+  </div>
+</div>
 
 ---
 
