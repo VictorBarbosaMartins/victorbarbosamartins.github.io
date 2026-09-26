@@ -58,7 +58,7 @@ The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-ene
   <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">No Photo</div>
   <div>
     <h4 style="margin-top: 0; margin-bottom: 0.5em;">Isabela Moura Marques</h4>
-    <p style="margin-bottom: 0;"><strong>Project:</strong> Simulation and morphological analysis of radio galaxies in very high energy gamma rays with Gammapy for CTAO.</p>
+    <p style="margin-bottom: 0;"><strong>Project:</strong> Predicting AGN detectability with CTAO using Gammapy.</p>
   </div>
 </div>
 
@@ -66,7 +66,7 @@ The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-ene
   <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">No Photo</div>
   <div>
     <h4 style="margin-top: 0; margin-bottom: 0.5em;">Bruna Rodrigues Marques</h4>
-    <p style="margin-bottom: 0;"><strong>Project:</strong> Structural health monitoring of CTAO medium-sized telescopes (MST) via Operational Modal Analysis.</p>
+    <p style="margin-bottom: 0;"><strong>Project:</strong> Simulation and morphological analysis of radio galaxies in very high energy gamma rays with Gammapy for CTAO.</p>
   </div>
 </div>
 
@@ -83,6 +83,27 @@ The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-ene
   <div>
     <h4 style="margin-top: 0; margin-bottom: 0.5em;">Lívia Santiago</h4>
     <p style="margin-bottom: 0;"><strong>Project:</strong> The enigma of dark matter: astrophysical evidence and the baryonic matter limit.</p>
+  </div>
+</div>
+
+---
+
+### Collaborations
+
+<div style="display: flex; align-items: center; margin-bottom: 2em; flex-wrap: wrap;">
+  <img src="/images/hess.jpg" alt="H.E.S.S. Observatory in Namibia" style="width: 250px; border-radius: 8px; margin-right: 20px; margin-bottom: 10px;">
+  <div style="flex: 1; min-width: 250px;">
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">H.E.S.S. Collaboration</h4>
+    <p style="margin-bottom: 0;">The High Energy Stereoscopic System (H.E.S.S.) is an array of Imaging Atmospheric Cherenkov Telescopes located in Namibia, investigating cosmic gamma rays in the energy range from tens of GeV to tens of TeV.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 2em; flex-wrap: wrap;">
+  <div style="width: 250px; height: 150px; border-radius: 8px; background-color: #ddd; margin-right: 20px; margin-bottom: 10px; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">[ LST Photo Placeholder ]</div>
+  <div style="flex: 1; min-width: 250px;">
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">LST Collaboration (CTAO)</h4>
+    <p style="margin-bottom: 0.5em;">The Large-Sized Telescope (LST) is a key component of the Cherenkov Telescope Array Observatory (CTAO), located in La Palma, Spain, designed to detect the lowest energy gamma rays.</p>
+    <p style="margin-bottom: 0; font-size: 0.9em;"><em>Note: My participation in the LST Collaboration is through Ruhr-Universität Bochum.</em></p>
   </div>
 </div>
 
