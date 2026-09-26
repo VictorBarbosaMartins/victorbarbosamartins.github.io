@@ -36,8 +36,6 @@ The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-ene
 
 #### Bachelor's Thesis (TCC)
 
-#### Undergraduate Research (IC)
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">No Photo</div>
   <div>
@@ -49,16 +47,18 @@ The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-ene
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">No Photo</div>
   <div>
-    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Hygor Santana</h4>
-    <p style="margin-bottom: 0;"><strong>Project:</strong> Development and commissioning of a Wilson Chamber for cosmic ray detection.</p>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Isabela Moura Marques</h4>
+    <p style="margin-bottom: 0;"><strong>Project:</strong> Predicting AGN detectability with CTAO using Gammapy.</p>
   </div>
 </div>
+
+#### Undergraduate Research (IC)
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">No Photo</div>
   <div>
-    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Isabela Moura Marques</h4>
-    <p style="margin-bottom: 0;"><strong>Project:</strong> Predicting AGN detectability with CTAO using Gammapy.</p>
+    <h4 style="margin-top: 0; margin-bottom: 0.5em;">Hygor Santana</h4>
+    <p style="margin-bottom: 0;"><strong>Project:</strong> Development and commissioning of a Wilson Chamber for cosmic ray detection.</p>
   </div>
 </div>
 
