@@ -23,7 +23,7 @@ author_profile: true
 * **PhD Student**, DESY / Humboldt University of Berlin, 2018 – 2022
 
 ### Affiliations & Collaborations
-* **[H.E.S.S.](https://hess-experiment.eu/) Collaboration** (Associated Member)
+* **[H.E.S.S.](https://hess-experiment.eu/) Collaboration** (Member)
 * **[Cherenkov Telescope Array Observatory (CTAO)](https://www.ctao.org/)** (via RUB)
 * **[LST](https://lst.iac.es/) - [CTAO](https://www.ctao.org/)** (via RUB)
 * **Graduate Program in Physics (PPG-IF/UFG)** [Link](https://posgraduacao.if.ufg.br/)
