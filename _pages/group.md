@@ -12,6 +12,10 @@ author_profile: true
 
 The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-energy astrophysics, multi-messenger astronomy, and scientific instrumentation.
 
+<div align="center" style="margin-bottom: 2em;">
+  <img src="/images/group_photo.jpg" alt="AstroGYN Group Photo" style="width: 100%; max-width: 800px; border-radius: 8px;">
+</div>
+
 ### Current Members
 
 #### PhD Students
