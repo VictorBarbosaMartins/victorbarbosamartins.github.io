@@ -17,7 +17,7 @@ The **AstroGYN** group, led by Prof. Victor Barbosa Martins, focuses on high-ene
 #### PhD Students
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/luan.png" alt="Luan Torres" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-right: 20px; flex-shrink: 0;">
+  <img src="/images/luan.jpg" alt="Luan Torres" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 0.5em;"><a href="http://lattes.cnpq.br/8213706019670200" target="_blank">Luan de Castro Torres</a></h4>
     <p style="margin-bottom: 0;"><strong>Project:</strong> Astroparticle Physics (Start: 2026)</p>
