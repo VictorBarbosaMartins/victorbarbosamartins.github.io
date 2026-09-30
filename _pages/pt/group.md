@@ -37,7 +37,7 @@ O grupo **AstroGYN**, liderado pelo Prof. Victor Barbosa Martins, foca em astrof
 #### Trabalho de Conclusão de Curso (TCC)
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <div style="width: 120px; height: 120px; border-radius: 50%; background-color: #ddd; margin-right: 20px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: #666; font-size: 14px; text-align: center;">Sem Foto</div>
+  <img src="/images/bruno.jpg" alt="Bruno Chaves Gustavo" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; margin-right: 20px; flex-shrink: 0;">
   <div>
     <h4 style="margin-top: 0; margin-bottom: 0.5em;">Bruno Chaves Gustavo</h4>
     <p style="margin-bottom: 0;"><strong>Projeto:</strong> Geometria do Campo Magnético e Polarização em Jatos de AGNs</p>
